@@ -14,7 +14,10 @@ header
     background-color: #507299;
 }
 
-
+::-moz-selection{
+    background-color:#E0E4EA;
+    color:#008000
+}
 
 ::selection{
     background-color:#E0E4EA;
